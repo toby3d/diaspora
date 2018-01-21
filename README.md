@@ -1,1 +1,7 @@
-diaspora
+# GoLang bindings for the diaspora* API [![discord](https://discordapp.com/api/guilds/208605007744860163/widget.png)](https://discord.gg/sctrSBj)
+[![License](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](LICENSE.md)
+[![Build Status](https://travis-ci.org/toby3d/diaspora.svg)](https://travis-ci.org/toby3d/diaspora)
+[![GoDoc](https://godoc.org/github.com/toby3d/diaspora?status.svg)](https://godoc.org/github.com/toby3d/diaspora)
+[![Go Report](https://goreportcard.com/badge/github.com/toby3d/diaspora)](https://goreportcard.com/report/github.com/toby3d/diaspora)
+[![Patreon](https://img.shields.io/badge/support-patreon-E6461A.svg?maxAge=2592000)](https://www.patreon.com/toby3d)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/avelino/awesome-go)
