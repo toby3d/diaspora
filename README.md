@@ -4,4 +4,3 @@
 [![GoDoc](https://godoc.org/github.com/toby3d/diaspora?status.svg)](https://godoc.org/github.com/toby3d/diaspora)
 [![Go Report](https://goreportcard.com/badge/github.com/toby3d/diaspora)](https://goreportcard.com/report/github.com/toby3d/diaspora)
 [![Patreon](https://img.shields.io/badge/support-patreon-E6461A.svg?maxAge=2592000)](https://www.patreon.com/toby3d)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/avelino/awesome-go)
