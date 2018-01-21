@@ -26,7 +26,7 @@ func (c *Client) request(method string, dst []byte, path string, args *http.Args
 	req.Header.Set("Accept", "application/json")
 	req.Header.SetMethod(method)
 	req.Header.SetRequestURI(requestURL.String())
-	req.Header.SetHost(requestURL.Hostname())
+	req.Header.SetHost(requestURL.Host)
 	req.SetBody(dst)
 
 	log.Ln("Request:")
