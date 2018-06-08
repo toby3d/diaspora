@@ -1,4 +1,5 @@
 # GoLang bindings for the diaspora* API [![discord](https://discordapp.com/api/guilds/208605007744860163/widget.png)](https://discord.gg/sctrSBj)
+## [Repo moved to GitLab](https://gitlab.com/toby3d/diaspora)
 [![License](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](LICENSE.md)
 [![Build Status](https://travis-ci.org/toby3d/diaspora.svg)](https://travis-ci.org/toby3d/diaspora)
 [![GoDoc](https://godoc.org/github.com/toby3d/diaspora?status.svg)](https://godoc.org/github.com/toby3d/diaspora)
